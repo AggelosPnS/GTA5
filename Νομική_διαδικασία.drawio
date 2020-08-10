@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T06:07:10.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.95" etag="_T79s9x1lPRNiccX1tqG" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T06:09:02.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.95" etag="ooN1liY1JQDtD9p3GodH" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1382" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;span style=&quot;font-style: normal&quot;&gt;Υπάρχουν απτές αποδείξεις ή μαρτυρία officer/s?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=11;align=center;strokeWidth=1;spacing=6;spacingTop=-3;horizontal=1;verticalAlign=middle;fontStyle=2;spacingLeft=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;span style=&quot;font-style: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Υπάρχουν απτές αποδείξεις ή μαρτυρία officer/s?&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=11;align=center;strokeWidth=1;spacing=6;spacingTop=10;horizontal=1;verticalAlign=middle;fontStyle=2;spacingLeft=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="318.75" y="250" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Fll-ZyYNeDKifbI595s-1" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
@@ -64,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-24" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Διαδικασία&lt;/span&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;ερωτήσεων&amp;nbsp;με χρονικό&amp;nbsp;όριο&amp;nbsp;ΧΧ&amp;nbsp;&lt;/div&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;λεπτά&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;fontSize=11;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="740" width="140" height="60" as="geometry" />
+          <mxGeometry x="70" y="740" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Fll-ZyYNeDKifbI595s-25" target="_Fll-ZyYNeDKifbI595s-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,19 +75,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-25" value="Προκύπτουν κατηγορίες?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeWidth=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="65" y="850" width="150" height="140" as="geometry" />
+          <mxGeometry x="67" y="852" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-28" value="ΝΑΙ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="215" y="900" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-29" value="Απαλλαγή" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="82" y="1058" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeColor=#000000;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Fll-ZyYNeDKifbI595s-31" target="_Fll-ZyYNeDKifbI595s-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-31" value="Miranda Rights/ Κάλεσμα εισαγγελέα" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;fontSize=11;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="625" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="625" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-32" value="ΟΧΙ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="550" width="30" height="20" as="geometry" />
@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="950" />
-              <mxPoint x="450" y="1090" />
+              <mxPoint x="450" y="1088" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -134,7 +134,7 @@
           <mxGeometry x="590" y="930" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-44" value="Φυλάκιση" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="650" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="1058" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-46" value="ΝΑΙ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="1010" width="40" height="20" as="geometry" />
