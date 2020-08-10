@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-10T06:00:39.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.95" etag="z60jBrv3ctmLrQUmwdbs" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T06:02:57.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.95" etag="ARIPrMu-pVXAqex2wUoV" version="13.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1382" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
             <mxPoint x="320" y="740" as="sourcePoint" />
             <mxPoint x="370" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="340" />
+              <mxPoint x="710" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-35" value="Miranda Rights" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#dae8fc;fontSize=11;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-37" value="ΟΧΙ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="990" width="40" height="20" as="geometry" />
@@ -114,22 +114,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-38" value="Διαδικασία εξέτασης με χρονικό όριο ΧΧ λεπτά" style="whiteSpace=wrap;html=1;rounded=1;fontSize=11;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;endSize=8;strokeColor=#000000;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Fll-ZyYNeDKifbI595s-40" target="_Fll-ZyYNeDKifbI595s-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="950" />
+              <mxPoint x="450" y="1090" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=8;strokeColor=#000000;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_Fll-ZyYNeDKifbI595s-40" target="_Fll-ZyYNeDKifbI595s-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-40" value="Προκύπτει ενοχή?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="890" width="120" height="120" as="geometry" />
+          <mxGeometry x="650" y="890" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-43" value="ΟΧΙ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="930" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-44" value="Φυλάκιση" style="whiteSpace=wrap;html=1;rounded=0;fontSize=11;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Fll-ZyYNeDKifbI595s-46" value="ΝΑΙ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="1010" width="40" height="20" as="geometry" />
